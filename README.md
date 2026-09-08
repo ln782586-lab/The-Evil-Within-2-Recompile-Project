@@ -32,7 +32,7 @@ Writers: Trent Haaga & Syoji Ishimine
 
 Composer: Masatoshi Yanagi
 
-# Tribute
+# Contributor & Recompile Developer
 
 Fopimic
 
