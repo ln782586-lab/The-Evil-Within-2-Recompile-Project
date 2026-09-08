@@ -3,7 +3,8 @@ The Evil Within 2 Recompile Project is a project where we recompile the game tit
 
 <img width="1920" height="1080" alt="IMG_20260908_171800" src="https://github.com/user-attachments/assets/707530a6-3208-4e10-b4c8-69579f1243ab" />
 
-# Information 
+# Information
+
 The Evil Within 2 is a 2017 survival horror game developed by Tango Gameworks and published by Bethesda Softworks. The game is the sequel to 2014's The Evil Within.
 
 The Evil Within 2 runs on the STEM engine, an offshoot of id Tech that was custom developed by Tango Gameworks for the game.
@@ -12,7 +13,9 @@ The Evil Within 2 runs on the STEM engine, an offshoot of id Tech that was custo
 
 
 # How do i launch the game?
+
 TEW2RE doesn't contain the game files. To run the game you need to own a legally obtained copy of the game on Steam.
+
 # Supported Platforms
 Android (17%)
 
@@ -31,6 +34,7 @@ Producer: Shinsaku Ohara
 Designer: Shigenori Nishikawa
 
 Programmers: Toshihiko Tsuji & Taichi Machino
+
 Writers: Trent Haaga & Syoji Ishimine
 
 Composer: Masatoshi Yanagi
@@ -55,3 +59,5 @@ The game is very unoptimized at this stage, the game is running at 20 FPS and so
 Although playing in a close area boss fight, the phone get quite hot after a few minutes.
 
 Only Chapter 11 and Chapter 3 are working.
+
+Game won't launch on Android 10 and older.
