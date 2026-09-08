@@ -49,14 +49,7 @@ Trip_let541
 
 Vort2002
 
-# Gameplay (Recorded on Android)
-
-https://github.com/user-attachments/assets/4b9709e0-d8ab-4491-b017-11f8ae7c6224
-
-Gameplay Footage (Recorded on Snapdragon 870, Res 1600×720)
-The game is very unoptimized at this stage, the game is running at 20 FPS and sometimes will drops to 10 FPS in much wider area.
-
-Although playing in a close area boss fight, the phone get quite hot after a few minutes.
+# Development
 
 Only Chapter 11 and Chapter 3 are working.
 
