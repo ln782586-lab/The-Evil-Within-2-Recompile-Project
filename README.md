@@ -86,3 +86,5 @@ Recorded on Dimensity 820 (Xiaomi Redmi 10X 5G)
 the game at this stage is very unoptimized for any Mediatek chipset, game was running at 10-13 FPS on the lowest settings possible.
 
 Also Touch Control is also under development only controllers input are supported.
+
+Audio in game is not enjoyable to listen to, the gameplay footage you're seeing was edited so the audio doesn't make your ears bleeds.
