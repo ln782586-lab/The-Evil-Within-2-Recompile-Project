@@ -1,5 +1,8 @@
 # The-Evil-Within-2-Recompile-Project
 The Evil Within 2 Recompile Project is a project where we recompile the game titled "The Evil Within 2" into Android and IOS.
+
+<img width="1920" height="1080" alt="IMG_20260908_171800" src="https://github.com/user-attachments/assets/707530a6-3208-4e10-b4c8-69579f1243ab" />
+
 # Information 
 The Evil Within 2 is a 2017 survival horror game developed by Tango Gameworks and published by Bethesda Softworks. The game is the sequel to 2014's The Evil Within.
 
@@ -41,3 +44,12 @@ Nile6418
 Trip_let541
 
 Vort2002
+
+# Gameplay (Recorded on Android)
+
+https://github.com/user-attachments/assets/4b9709e0-d8ab-4491-b017-11f8ae7c6224
+
+Gameplay Footage (Recorded on Snapdragon 870, Res 1600×720)
+The game is very unoptimized at this stage, the game is running at 20 FPS and sometimes will drops to 10 FPS in much wider area.
+
+Although playing in a close are boss fight, the phone get quite hot after a few minutes.
