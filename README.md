@@ -34,10 +34,10 @@ Composer: Masatoshi Yanagi
 
 # Contributor & Recompile Developer
 
-Fopimic
+Fopimic1582
 
-Nile
+Nile6418
 
-Trip_let
+Trip_let541
 
-Vort
+Vort2002
