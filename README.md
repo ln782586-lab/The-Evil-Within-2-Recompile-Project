@@ -1,4 +1,4 @@
-# The-Evil-Within-2-Recompile-Project
+# The Evil Within 2 Recompile Project
 The Evil Within 2 Recompile Project is a project where we recompile the game titled "The Evil Within 2" into Android and IOS.
 
 <img width="1920" height="1080" alt="IMG_20260908_171800" src="https://github.com/user-attachments/assets/707530a6-3208-4e10-b4c8-69579f1243ab" />
@@ -76,3 +76,13 @@ Atleast Dimensity 8100 and higher
 Android 12
 
 Requirements may change in the future.
+
+# Gameplay Footage
+
+https://github.com/user-attachments/assets/86b7916b-93dc-4bfd-908a-3fb241992ea0
+
+Recorded on Dimensity 820 (Xiaomi Redmi 10X 5G)
+
+the game at this stage is very unoptimized for any Mediatek chipset, game was running at 10-13 FPS on the lowest settings possible.
+
+Also Touch Control is also under development only controllers input are supported.
