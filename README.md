@@ -61,3 +61,25 @@ Although playing in a close area boss fight, the phone get quite hot after a few
 Only Chapter 11 and Chapter 3 are working.
 
 Game won't launch on Android 10 and older.
+
+# Minimum Requirements
+
+Atleast Snapdragon 855 and higher
+
+Atleast Dimensity 820 and higher
+
+8GB Ram
+
+Android 11
+
+# Recommended Requirements
+
+Atleast Snapdragon 8 Gen 1 and higher
+
+Atleast Dimensity 8100 and higher
+
+12GB Ram
+
+Android 12
+
+Requirements may change in the future.
