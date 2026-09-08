@@ -93,4 +93,6 @@ Audio in game is not enjoyable to listen to, the gameplay footage you're seeing 
 
 I'm not comfortable enough to publish the whole source codes, this project is 100% real and i'm not that evil to put any trojans in the future release or anything.
 
-I'm a humans with emotion.
+I'm a humans with emotion too, hope you guys understand.
+
+From France with Love.
