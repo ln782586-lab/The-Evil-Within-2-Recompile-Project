@@ -88,3 +88,9 @@ the game at this stage is very unoptimized for any Mediatek chipset, game was ru
 Also Touch Control is also under development only controllers input are supported.
 
 Audio in game is not enjoyable to listen to, the gameplay footage you're seeing was edited so the audio doesn't make your ears bleeds.
+
+# Note
+
+I'm not comfortable enough to publish the whole source codes, this project is 100% real and i'm not that evil to put any trojans in the future release or anything.
+
+I'm a humans with emotion.
