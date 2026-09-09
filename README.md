@@ -63,6 +63,8 @@ Game is now running at 15 FPS at 720P.
 
 Replaced the right stick input into touchscreen.
 
+Video is recorded by a beta tester.
+
 # Minimum Requirements
 
 Atleast Snapdragon 855 and higher
