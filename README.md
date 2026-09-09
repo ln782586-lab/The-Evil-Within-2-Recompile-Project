@@ -17,7 +17,7 @@ The Evil Within 2 runs on the STEM engine, an offshoot of id Tech that was custo
 TEW2RE doesn't contain the game files. To run the game you need to own a legally obtained copy of the game on Steam.
 
 # Supported Platforms
-Android (17%)
+Android (23%)
 
 IOS (No Progress)
 
@@ -54,6 +54,12 @@ Vort2002
 Only Chapter 11 and Chapter 3 are working.
 
 Game won't launch on Android 10 and older.
+
+Fixed infinite loading screen.
+
+https://github.com/user-attachments/assets/a23cde40-8b94-4f88-a92a-727435468d1b
+
+Game is now running at 15 FPS at 720P.
 
 # Minimum Requirements
 
