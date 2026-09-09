@@ -61,6 +61,8 @@ https://github.com/user-attachments/assets/a23cde40-8b94-4f88-a92a-727435468d1b
 
 Game is now running at 15 FPS at 720P.
 
+Replaced the right stick input into touchscreen.
+
 # Minimum Requirements
 
 Atleast Snapdragon 855 and higher
