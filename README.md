@@ -11,17 +11,19 @@ The Evil Within 2 runs on the STEM engine, an offshoot of id Tech that was custo
 
 <img width="1280" height="718" alt="Evil_Within_2_Screenshot" src="https://github.com/user-attachments/assets/f95be49d-1c81-4cb8-a7a5-1662b75e8f4e" />
 
-
 # How do i launch the game?
 
 TEW2RE doesn't contain the game files. To run the game you need to own a legally obtained copy of the game on Steam.
 
-# Supported Platforms
-Android (23%)
+Only compatible with build 2173987 (The Evil Within 2's first build on Steam)
 
-IOS (No Progress)
+# Supported Platforms
+Android (30%)
+
+IOS (6%)
 
 MacOS (No Progress)
+
 # Original Developer Credits
 Developer: Tango Gameworks
 
