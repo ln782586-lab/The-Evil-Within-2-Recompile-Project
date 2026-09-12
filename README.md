@@ -59,14 +59,6 @@ Game won't launch on Android 10 and older.
 
 Fixed infinite loading screen.
 
-https://github.com/user-attachments/assets/a23cde40-8b94-4f88-a92a-727435468d1b
-
-Game is now running at 15 FPS at 720P.
-
-Replaced the right stick input into touchscreen.
-
-Video is recorded by a beta tester.
-
 # Minimum Requirements
 
 Atleast Snapdragon 855 and higher
