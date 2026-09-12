@@ -18,7 +18,8 @@ TEW2RE doesn't contain the game files. To run the game you need to own a legally
 Only compatible with build 2173987 (The Evil Within 2's first build on Steam)
 
 # Supported Platforms
-Android (30%)
+Android (10%)
+I broke the game.
 
 IOS (6%)
 
