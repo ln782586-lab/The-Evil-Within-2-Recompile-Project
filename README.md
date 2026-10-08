@@ -95,6 +95,8 @@ Audio in game is not enjoyable to listen to, the gameplay footage you're seeing 
 
 # Note
 
-Sources Code will remain private for development progress.
+Unlike TEW1, Reverse-engineering STEM Engine (a completely even more modified version of ID Tech 5) is harder.
 
-From France with Love.
+Also I'd need to extract the models from the game usinh LAURA, pretty much its hard to code.
+
+Also its ai-assisted using Claude 5.5.
