@@ -83,15 +83,7 @@ Requirements may change in the future.
 
 # Gameplay Footage
 
-https://github.com/user-attachments/assets/86b7916b-93dc-4bfd-908a-3fb241992ea0
-
-Recorded on Dimensity 820 (Xiaomi Redmi 10X 5G)
-
-the game at this stage is very unoptimized for any Mediatek chipset, game was running at 10-13 FPS on the lowest settings possible.
-
-Also Touch Control is also under development only controllers input are supported.
-
-Audio in game is not enjoyable to listen to, the gameplay footage you're seeing was edited so the audio doesn't make your ears bleeds.
+Go to archived footage.
 
 # Note
 
@@ -99,4 +91,6 @@ Unlike TEW1, Reverse-engineering STEM Engine (a completely even more modified ve
 
 Also I'd need to extract the models from the game usinh LAURA, pretty much its hard to code.
 
-Also its ai-assisted using Claude 5.5.
+AI-assisted using Claude 5.5.
+
+The game now can run at 1680 x 720 at a playable frame rate (25fps-ish), i say playable cause of the frame pacing and stuffs. (Snapdragon 8 Gen 3)
